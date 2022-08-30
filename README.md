@@ -46,7 +46,7 @@ python manage.py runserver
 
 ## login
 
-[!(https://i.gyazo.com/c4afb0cc4b529f1035649879569a1730.png)](https://gyazo.com/c4afb0cc4b529f1035649879569a1730)
+[![Image from Gyazo](https://i.gyazo.com/c4afb0cc4b529f1035649879569a1730.png)](https://gyazo.com/c4afb0cc4b529f1035649879569a1730)
 
 ## logout
 
