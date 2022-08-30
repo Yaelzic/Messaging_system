@@ -39,7 +39,25 @@ Now you can run the project with this command:
 python manage.py runserver
 ```
 ---
+## User details:
 
+## super user
+username : yael
+password : 123
+email : y@ael.com
+
+## Additional users:
+username : yair
+password : 1234
+email : y@air.com
+
+username : shani
+password : 222
+email : shani@1.com
+
+username : tamar
+password : 555
+email : t@amar.com
 
 
 ## postman examples:
