@@ -42,35 +42,42 @@ python manage.py runserver
 
 
 
-## postman examples
+## postman examples:
 
 ## login
 
 [![Image from Gyazo](https://i.gyazo.com/c4afb0cc4b529f1035649879569a1730.png)](https://gyazo.com/c4afb0cc4b529f1035649879569a1730)
 
+
 ## logout
 
 [![Image from Gyazo](https://i.gyazo.com/1bde423ecefd0ce3dcb067bd848c3230.png)](https://gyazo.com/1bde423ecefd0ce3dcb067bd848c3230)
+
 
 ## register
 
 [![Image from Gyazo](https://i.gyazo.com/ce6f95643c7fb9af4b7b06873927951e.png)](https://gyazo.com/ce6f95643c7fb9af4b7b06873927951e)
 
+
 ## add new message (must login before)
 
 [![Image from Gyazo](https://i.gyazo.com/99cb91a48b0e0a0f86301c66c20bbc8d.png)](https://gyazo.com/99cb91a48b0e0a0f86301c66c20bbc8d)
+
 
 ## delete message (must log in before)
 
 [![Image from Gyazo](https://i.gyazo.com/3e0f8340538d6d51d71e05e3829b4496.png)](https://gyazo.com/3e0f8340538d6d51d71e05e3829b4496)
 
+
 ## show all message per user (must log in before)
 
 [![Image from Gyazo](https://i.gyazo.com/42be85748bc82585afce62f9e13bc48a.png)](https://gyazo.com/42be85748bc82585afce62f9e13bc48a)
  
+ 
 ## ahow unread message per user (must log in before)
 
 [![Image from Gyazo](https://i.gyazo.com/6f1a859547f9c50f54e2a235bfc399a9.png)](https://gyazo.com/6f1a859547f9c50f54e2a235bfc399a9)
+
 
 ## read message (must log in before)
 
